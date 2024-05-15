@@ -2,15 +2,15 @@ import React from "react";
 import './footer.css';
 
 function Footer() {
-    return (
-        <div className="Footer">
-            <hr />
-            <h3>The Pink Panther ©</h3>
-            <p className="footer-p">This website was made with React, Typescript and CSS.</p>
-            <p className="footer-p">Thank you Ivana for the help.</p>
+  return (
+    <div className="Footer">
+      <hr />
+      <h3>The Pink Panther ©</h3>
+      <p className="footer-p">This website was made with React, Typescript and CSS.</p>
+      <p className="footer-p">Thank you Ivana for the help.</p>
 
-        </div>
-    );
+    </div>
+  );
 }
 
 export default Footer;
