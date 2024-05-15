@@ -1,4 +1,4 @@
-# [The Pink Panther](https://ivanaogrizovic.github.io/thepinkpanther/)
+# [The Pink Panther](Git Pages Link)
 
 The Pink Panther is a make believe jewelry store based in Dublin.
 It was created for learning purposes. Here are some features:
@@ -7,7 +7,7 @@ It was created for learning purposes. Here are some features:
 * Made with reusable modules
 * Every page is fully accessible (WCAG 2.1 AA)
   
-You can run it locally (see instructions below) or visit the [GitHub Page](https://ivanaogrizovic.github.io/thepinkpanther/).
+You can run it locally (see instructions below) or visit the [GitHub Page](Git Pages Link).
 
 <img src="/public/preview.PNG">
 
