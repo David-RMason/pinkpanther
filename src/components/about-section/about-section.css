@@ -1,0 +1,60 @@
+.main-blurb {
+    padding: 0 17% 3rem 17%;
+}
+
+.main-blurb p,
+.single-value p,
+.quote-wrapper p {
+    text-transform: none;
+}
+
+.explore-link {
+    text-decoration: underline;
+}
+
+.values-wrapper {
+    background-color: var(--light-background);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 8rem;
+    justify-content: center;
+    padding: 2.5rem 0;
+}
+
+.single-value {
+    flex: 0 0 15%;
+}
+
+.quote-wrapper {
+    padding: 2% 15%;
+}
+
+@media screen and (max-width: 1000px) {
+
+    .values-wrapper {
+        gap: 3rem;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .values-wrapper {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0 3rem;
+    }
+
+    .main-blurb {
+        padding: 0 5% 3rem 5%;
+    }
+
+    .quote-wrapper {
+        padding: 2% 5%;
+    }
+}
+
+@media screen and (max-width: 395px) {
+    .values-wrapper {
+        gap: 0;
+    }
+}
